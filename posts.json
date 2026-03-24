@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Beautiful Garden",
+    "image": "https://source.unsplash.com/600x400/?garden",
+    "description": "A peaceful green garden."
+  },
+  {
+    "id": 2,
+    "title": "Indoor Plants",
+    "image": "https://source.unsplash.com/600x400/?indoor-plants",
+    "description": "Perfect plants for home."
+  },
+  {
+    "id": 3,
+    "title": "Mountain View",
+    "image": "https://source.unsplash.com/600x400/?mountains",
+    "description": "A breathtaking mountain landscape."
+  },
+  {
+    "id": 4,
+    "title": "Ocean Waves",
+    "image": "https://source.unsplash.com/600x400/?ocean",
+    "description": "Relaxing ocean scenery."
+  },
+  {
+    "id": 5,
+    "title": "City Lights",
+    "image": "https://source.unsplash.com/600x400/?city-night",
+    "description": "A vibrant city at night."
+  },
+  {
+    "id": 6,
+    "title": "Forest Path",
+    "image": "https://source.unsplash.com/600x400/?forest",
+    "description": "A calm walk through the forest."
+  },
+  {
+    "id": 7,
+    "title": "Sunset Sky",
+    "image": "https://source.unsplash.com/600x400/?sunset",
+    "description": "A colorful evening sunset."
+  },
+  {
+    "id": 8,
+    "title": "Desert Dunes",
+    "image": "https://source.unsplash.com/600x400/?desert",
+    "description": "Golden sand dunes."
+  },
+  {
+    "id": 9,
+    "title": "Snow Mountains",
+    "image": "https://source.unsplash.com/600x400/?snow-mountains",
+    "description": "Chilly snowy peaks."
+  },
+  {
+    "id": 10,
+    "title": "Flower Field",
+    "image": "https://source.unsplash.com/600x400/?flowers",
+    "description": "A colorful flower garden."
+  }
+]
